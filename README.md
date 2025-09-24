@@ -1,4 +1,4 @@
-# My-Course---Portfolio
+# My-Course-Portfolio
 Portfolio of my work and  projects for CEP146
 ## About Me
 - Name: (Madhukumari Kondabathini)

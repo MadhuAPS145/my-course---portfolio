@@ -1,5 +1,5 @@
 # My-Course-Portfolio
-Portfolio of my work and  projects for CEP146
+Welcome to my academic portfolio for [CEP146 and C3030]!
 ## About Me
 - Name: (Madhukumari Kondabathini)
 - Program: (CEP146)

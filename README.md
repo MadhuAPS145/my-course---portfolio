@@ -1,7 +1,7 @@
 # My-Course---Portfolio
 Portfolio of my work and  projects for CEP146
 ## About Me
-- Name: (Madhukumari Kondabathini)
+- Name: (M.A)
 - Program: (CEP146)
 - Year: (2025 and 1st Semester)
 - Favorite Programming Language: (C)

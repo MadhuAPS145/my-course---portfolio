@@ -1,7 +1,7 @@
 # My-Course-Portfolio
 Welcome to my academic portfolio for [CEP146 and C3030]!
 ## About Me
-- Name: (Madhukumari Kondabathini)
+- Name: (M.A)
 - Program: (CEP146)
 - Year: (2025 and 1st Semester)
 - Favorite Programming Language: (C)

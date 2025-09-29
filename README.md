@@ -4,7 +4,7 @@ Welcome to my academic portfolio for [CEP146 and C3030]!
 - Name: (M.A)
 - Program: (CEP146)
 - Year: (2025 and 1st Semester)
-- Favorite Programming Language: (C)
+- Favorite Programming Language: (Newt to Programming)
 - ## Course Goals
 - [ ] Learn version control with Git and GitHub
 - [ ] Complete all lab assignments

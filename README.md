@@ -4,7 +4,7 @@ Welcome to my academic portfolio for [CEP146 and C3030]!
 - Name: (Madhu)
 - Program: (CEP146)
 - Year: (2025 and 1st Semester)
-- Favorite Programming Language: (Newt to Programming)
+- Favorite Programming Language: (Python)
 - ## Course Goals
 - [ ] Learn version control with Git and GitHub
 - [ ] Complete all lab assignments

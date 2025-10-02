@@ -1,7 +1,7 @@
 # My-Course-Portfolio
 Welcome to my academic portfolio for [CEP146 and C3030]!
 ## About Me
-- Name: (M.A)
+- Name: (Madhu)
 - Program: (CEP146)
 - Year: (2025 and 1st Semester)
 - Favorite Programming Language: (Newt to Programming)
